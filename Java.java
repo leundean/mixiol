@@ -4,5 +4,6 @@ public class Java {
 			System.out.println("Arg " +i+ ": " + args[i]);
 		}
 		System.out.println("END");
+		System.out.println("This is Xiaoyu Chen's update");
 	}
 }
